@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rjacob07
-- 👀 I’m interested in Android and backend development using c==, c# and python
+- 👀 I’m interested in Android and backend development using c++, c# and python
 - 🌱 I’m currently learning Android and kotlin
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me 
